@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  Chords
 //
-//  Created by Erik Sebastian de Erice on 25/9/16.
-//  Copyright © 2016 Red Monster Studio. All rights reserved.
 //
 
 import UIKit
